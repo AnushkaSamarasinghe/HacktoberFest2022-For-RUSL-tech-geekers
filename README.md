@@ -1,1 +1,1 @@
-# -HacktoberFest2022-For-RUSL-tech-geekers
+# HacktoberFest2022-For-RUSL-tech-geekers
