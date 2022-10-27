@@ -1,5 +1,4 @@
-
-![Hacktoberfest_Wallpaper_desktop-02](https://user-images.githubusercontent.com/42792876/2022-09-27-at-08.03.21.png)
+<img width="1181" alt="2022-09-27-at-08 03 21" src="https://user-images.githubusercontent.com/42792876/198192305-a0c26888-5b4e-4c57-8f15-1283eebf6eb1.png">
 
 # HacktoberFest2022-For-RUSL-tech-geekers
 
