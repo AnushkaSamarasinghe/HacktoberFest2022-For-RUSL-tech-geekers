@@ -6,4 +6,6 @@ Know a bit of HTML & need pr for hacktoberfest ? come join us in the journey
 
 # Please insert you name as a comment in your program to verify the identity. Unless the contribution will be declined.
 
+# Please your file insert to the 'codes' folder.
+
 Check File [CONTRIBUTING.md](CONTRIBUTING.md) To See the guidelines
